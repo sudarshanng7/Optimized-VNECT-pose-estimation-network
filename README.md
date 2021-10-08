@@ -16,5 +16,7 @@ The files are organized as follows:
 •	Use the optimized models directly to run the inference for pose estimation on images and videos by executing “final_vnect_images.py” and “final_vnect_videos.py” respectively.
 
 Reference Repositories:
-timctho/Vnect-tensorflow
-EJShim/vnect_estimator
+•	timctho/Vnect-tensorflow
+•	EJShim/vnect_estimator
+
+
